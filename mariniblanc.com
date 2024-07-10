@@ -9,6 +9,7 @@
       <title>NENG4D - Daftar NENG4D - Link Alternatif NENG4D &mdash; NENG4D</title>
       <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
       <link rel="icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
+      <meta name="google-site-verification" content="WtHtAcsaVu6Sy4WcN_tDUjlpONPMJiuLvwOiN-Soxv8" />
       <link rel="amphtml" href="https://pub-d11b0a51096b466980c5ebe50e2fb098.r2.dev/neng4d-ntb-amp.html">
       <link rel="canonical" href="https://martiniblanc.com/"/>
       <meta property="og:site_name" content="NENG4D"/>
